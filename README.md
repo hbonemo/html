@@ -1,3 +1,3 @@
 # moorlag.github.io
 
-Mijn persoonlijke webpagina! 
+Snel aan de slag met Github Pages
