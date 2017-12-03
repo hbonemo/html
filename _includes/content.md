@@ -9,7 +9,7 @@ Je gaat je website-code hosten in een repository, zodat je makkelijk verandering
 > :information_source:  **Repository** betekent letterlijk *bewaarplaats*.    
 > Op GitHub is dit een soort van folder waar alles van je project in te vinden is.
 
-Maak [een nieuwe repository](https://github.com/new) die precies `gebruikersnaam.github.io` heet, waarbij je `gebruikersnaam` vervangt met je GitHub gebruikersnaam. Vink ook het vakje `Initialize this repository with a README` aan.
+Maak [een nieuwe repository](https://github.com/new) die precies `gebruikersnaam.github.io` heet, waarbij je `gebruikersnaam` vervangt met je GitHub gebruikersnaam. Vink ook het vakje `Initialize this repository with a README` (!) aan.
 Als je dat gedaan hebt klik je op `Create repository`.
 
 ![Een nieuwe repository maken.](images/create-repository.png)
