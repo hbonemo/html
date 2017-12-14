@@ -1,4 +1,4 @@
-# Snel aan de slag met Github Pages
+# Snel aan de slag met Github Pages version 1.1a
 
 ### [> Naar de handleiding <](http://piersoncollege.github.io/html/)
 
